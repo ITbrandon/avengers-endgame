@@ -30,12 +30,12 @@ export const avengers = [
         color: "#F9F4DA",
     },
     {
-        name: "Ant Man",
+        name: "War Machine",
         backgroundColor: "#FFD742",
         color: "#1E1E1E",
     },
     {
-        name: "Spider Man",
+        name: "Ant Man",
         backgroundColor: "#D02B2B",
         color: "#F9F4DA",
     },

@@ -7,7 +7,7 @@ export function generateFarewellText(avenger) {
         `Oh no, not ${avenger}!`,
         `${avenger} bites the dust`,
         `Gone but not forgotten, ${avenger}`,
-        `The end of ${avenger} as we know it`,
+        `${avenger} has vanished from existence`,
         `Off into the sunset, ${avenger}`,
         `${avenger}, it's been real`,
         `${avenger}, your watch has ended`,
